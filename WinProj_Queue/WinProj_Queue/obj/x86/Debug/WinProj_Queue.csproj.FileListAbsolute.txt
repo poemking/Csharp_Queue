@@ -1,0 +1,7 @@
+C:\vs2010\WinProj_Queue\WinProj_Queue\bin\Debug\WinProj_Queue.exe
+C:\vs2010\WinProj_Queue\WinProj_Queue\bin\Debug\WinProj_Queue.pdb
+C:\vs2010\WinProj_Queue\WinProj_Queue\obj\x86\Debug\WinProj_Queue.Form1.resources
+C:\vs2010\WinProj_Queue\WinProj_Queue\obj\x86\Debug\WinProj_Queue.Properties.Resources.resources
+C:\vs2010\WinProj_Queue\WinProj_Queue\obj\x86\Debug\WinProj_Queue.csproj.GenerateResource.Cache
+C:\vs2010\WinProj_Queue\WinProj_Queue\obj\x86\Debug\WinProj_Queue.exe
+C:\vs2010\WinProj_Queue\WinProj_Queue\obj\x86\Debug\WinProj_Queue.pdb
